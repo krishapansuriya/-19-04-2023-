@@ -1,0 +1,13 @@
+#include<stdio.h>
+main()
+{
+	printf("0\n");
+	printf("0\n");
+	printf("0\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\n");
+	printf("0\t\t\t\t\t\t\t\t\t\t\t\t0\t\t0\n");
+	printf("0\t\t\t0\t0\t\t\t\t\t\t\t0\n");
+	printf("0\t\t0\t\t\t0\t\t\t\t\t0\n");
+	printf("0\t0\t\t\t\t\t0\t\t\t0\n");
+	printf("00\t\t\t\t\t\t\t0\t0\n");
+	printf("0\n"); 
+}
